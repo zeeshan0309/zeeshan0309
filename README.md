@@ -14,6 +14,3 @@
 
 ![Espressif Badge](https://img.shields.io/badge/Espressif-ESP32/ESP8266-red) ![Arduino Badge](https://img.shields.io/badge/Arduino-nano/UNO-brightgreen) ![STM Badge](https://img.shields.io/badge/STMicroelectronics-STM32-blue)
 
-
-#### profile visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zeeshan0309)
