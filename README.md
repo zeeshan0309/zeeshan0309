@@ -2,7 +2,7 @@
 
 
 
- [![Mail Badge](https://img.shields.io/badge/-@stlo0903-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/stlo0903/?hl=en) [![Linkedin Badge](https://img.shields.io/badge/-Zeeshan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zeeshan-1140a620a/)  [![Mail Badge](https://img.shields.io/badge/-zeeshanttps-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zeeshanttps@gmail.com) [![Mail Badge](https://img.shields.io/badge/-StLo-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/stlo0309)
+[![Linkedin Badge](https://img.shields.io/badge/-Zeeshan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-wsnr/)  [![Mail Badge](https://img.shields.io/badge/-zeeshanttps-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zeeshanttps@gmail.com)
 
 <!-- TODO: Add last video link -->
 
